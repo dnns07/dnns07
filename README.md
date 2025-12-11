@@ -1,5 +1,5 @@
-# 💫 About Me:
-💻Studying Computer Science at the University of Applied Science, Aachen<br>💭 Currently learning about Web Development
+# 👋🏻 Hi I'm Dennis:
+💻 Studying Computer Science at the University of Applied Science, Aachen<br>💭 Currently learning about Web Development
 
 
 # 💻 Tech Stack:
